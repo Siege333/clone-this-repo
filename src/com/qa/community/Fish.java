@@ -21,5 +21,11 @@ public class Fish extends Animal implements Swimable {
     public String swim() {
         return "imma do a swim in the sea m80";
     }
+	
+	@Override 
+	public String dive() {
+		return "goin' deeper!"
+	
+	}
 
 }
