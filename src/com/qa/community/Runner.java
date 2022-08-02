@@ -2,6 +2,7 @@ package com.qa.community;
 
 public class Runner {
 
+	// This is the first method to call. It gets called automatically
     public static void main(String[] args) {
 
         Animal animal = new Animal();
