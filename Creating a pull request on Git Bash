@@ -1,0 +1,14 @@
+1) Create Fork ( if they disable push)
+2) git clone https://github.com/safluke/clone-this-repo.git
+3) cd clone-this-repo/
+4) git branch
+5) git checkout -b dev-safluke
+6) git add .
+7) git commit -m "saf made changes"
+8) git push --set-upstream origin dev-safluke
+9) git status
+10) Create pull request on GitHub
+
+
+git remote add upstream https...  (add more branches)
+git push upstream dev-safluke (alternative)

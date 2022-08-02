@@ -1,7 +1,9 @@
 package com.qa.community;
 
 public class Animal {
-
+	/*
+	 * Saf made changes here to test pull requests
+	 */
     private int age;
     private int legs;
     private String name;
