@@ -8,3 +8,7 @@
 8) git push --set-upstream origin dev-safluke
 9) git status
 10) Create pull request on GitHub
+
+
+git remote add upstream https...  (add more branches)
+git push upstream dev-safluke (alternative)
